@@ -4,11 +4,6 @@ root: .
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-
-
-<img src="/Data-Movement-dissemination-and-archiving/assets/img/globus_rclone/globus_and_rclone0.png"/>
-<img src="/Data-Movement-dissemination-and-archiving/assets/img/globus_rclone/globus_and_rclone1.png"/>
-
 # OD2A P2P Data Dasbhoard Webinar Series - Wireframing for Data Dashboards
 
 ## Presenters
