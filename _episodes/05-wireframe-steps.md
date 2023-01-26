@@ -46,9 +46,10 @@ If you're having troubling imagining what it should look like, it probably means
 * Where is the call to action?
 * What will the user expect to see on certain areas of the page?
 
-> ### Note: 
+> ## Note: 
 > 
-> If you have a hard time answering these questions, you're probably not ready to start wireframing. In this case, we suggest that you go back to the gathering requirements phase.
+> If you have a hard time answering these questions, you're probably not ready to start wireframing. 
+> In this case, we suggest that you go back to the gathering requirements phase.
 > 
 {: .callout}
 
@@ -59,10 +60,11 @@ Even if you are wireframing alone, it's useful to go through the step of explici
 
 Start adding the elements starting with the most important visuals and move on to smaller areas such as call to actions, interactive elements, survey structures, and so on. You can also add buttons to generate reports, send notifications, do bulk actions, etc. place the most important aspect of your dashboard at the top-left corner. This is what you want to keep in mind when beginning to outline your dashboard.
 
-> ### Note:
+> ## Note:
 > 
 > Visual language is only helpful when it is consistent, clean and simple. 
-> Use very few colors (or preferably, no colors at all except for different shades of gray) just to draw the necessary focus and contrast to the content. Use simple shapes and simplified visualization to demonstrate the relationship between elements
+> Use very few colors (or preferably, no colors at all except for different shades of gray) just to draw the necessary focus and contrast to the content. 
+> Use simple shapes and simplified visualization to demonstrate the relationship between elements
 > 
 {: .callout}
 
