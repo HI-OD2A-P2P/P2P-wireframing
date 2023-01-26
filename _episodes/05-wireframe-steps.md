@@ -88,5 +88,5 @@ Your dashboard wireframe is now ready to be shared with collaborators and other 
 
 The iterative process of receiving feedback, incorporating changes, begins at this stage and continues until all parties are happy with the wireframe design. After the iterations are done, you can proceed to add design elements and other aesthetic features and finally test your prototypes with users.
 
-{% include figure.html url="" file="/fig/dashboard-wireframe-ex-bi.jpg" width=500px alt="" caption="Example of wireframe to proto-typed Power BI dashboard." %}
+{% include figure.html url="" file="/fig/dashboard-wireframe-ex-bi.PNG" width=500px alt="" caption="Example of wireframe to proto-typed Power BI dashboard." %}
 {% include links.md %}
