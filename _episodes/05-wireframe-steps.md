@@ -42,6 +42,7 @@ If you're having troubling imagining what it should look like, it probably means
 
 > ## Note: 
 > If you have a hard time answering these questions, you're probably not ready to start wireframing. In this case, we suggest that you go back to the gathering requirements phase.
+{: .callout}
 
 Even if you are wireframing alone, it's useful to go through the step of explicitly writing down this information about your project. It will help you get back on track when you get stuck and will be a huge help to anyone looking at your wireframes later.
 
