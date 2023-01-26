@@ -22,6 +22,8 @@ It’s for reasons of convenience and efficiency that professional UX designers 
 
 A online chart and diagram platform with Lucidchart, you can also build both wireframes and mockups. A free version is available.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZaJ3kvzz1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {% include figure.html url="" file="/fig/Lucid-dashboard-wireframe.PNG" width=500px alt="" caption="Lucidchart wireframe example" %}
 
 ### Figma:
