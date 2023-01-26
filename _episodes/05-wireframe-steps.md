@@ -30,21 +30,38 @@ Here are a few tried-and-true methods with real examples that we use to kick sta
 * Use the existing design
 * Find inspiration elsewhere
 
-## 1. Start with words instead of pictures
+## 1. Start with words instead of pictures - Brainstorming
 
 If you're having troubling imagining what it should look like, it probably means that you haven't answered some important questions. Instead of diving straight into the user interface, we often start by answering some basic questions that apply to any project. This is sometimes called a Brief.
 
-## Questions to ask before wireframing
+### Questions to ask before wireframing
 
 * Who will be using it? (i.e., the audience)
 * What is their goal? What problem does this dashboard answer or ability does it enable for them?
 * What are some of the data actions or operations they are likely to perform? (i.e., the workflows)
+* Exactly how can the content be organized to support these goals?
+* Where should your main message and logo go?
+* What should the user see first when arriving at the dashboard?
+* Where is the call to action?
+* What will the user expect to see on certain areas of the page?
 
 > ### Note: 
 > 
 > If you have a hard time answering these questions, you're probably not ready to start wireframing. In this case, we suggest that you go back to the gathering requirements phase.
+> 
 {: .callout}
 
 Even if you are wireframing alone, it's useful to go through the step of explicitly writing down this information about your project. It will help you get back on track when you get stuck and will be a huge help to anyone looking at your wireframes later.
+
+
+## Add Elements
+
+Start adding the elements starting with the most important visuals and move on to smaller areas such as call to actions, interactive elements, survey structures, and so on. You can also add buttons to generate reports, send notifications, do bulk actions, etc. place the most important aspect of your dashboard at the top-left corner. This is what you want to keep in mind when beginning to outline your dashboard.
+
+> ### NOTE
+> Visual language is only helpful when it is consistent, clean and simple. 
+> Use very few colors (or preferably, no colors at all except for different shades of gray) just to draw the necessary focus and contrast to the content. Use simple shapes and simplified visualization to demonstrate the relationship between elements
+> 
+{: .callout}
 
 {% include links.md %}
