@@ -76,6 +76,8 @@ Once you have your basic wireframe for the dashboard and related pages and scree
 
 The next step is to annotate or make notes in your dashboard wireframe to show the stakeholders what goes where. 
 
+{% include figure.html url="" file="/fig/wireframe-annotated.PNG" width=500px alt="" caption="Example of wireframe to proto-typed Power BI dashboard." %}
+
 > ## NOTE
 > 
 > You can use the sticky note widgets for this and add text to it to explain what a particular button does or what a particular portion of the dashboard shows.
