@@ -38,6 +38,8 @@ Traditionally, wireframes are low-fidelity sketches or digital illustrations cre
 
 However, modern design tools allow creating mid and even high-fidelity wireframes without much effort. Medium-fidelity wireframes are created in a monochrome palette, often gray-scale, which makes it similar to the previous one. But unlike lo-fi wireframes, the user interface (UI) components in mid-fidelity wireframes are more detailed and realistic. Mid-fidelity wireframes also can contain real imagery, and this property makes the wireframe look more like mocks rather than wireframes. High-fidelity wireframes are static versions of the app screens or website pages, and they are beneficial during prototyping.
 
+{% include figure.html url="" file="/fig/sketch-map-wireframe.jpg" width=500px alt="" caption="Hand drawn wireframe example" %}
+
 ## Wireframing vs. prototyping
 
 High-fidelity wireframes are often confused with prototypes because both are created in color and look realistic. Nevertheless, wireframes and prototypes are two different concepts, and they have different aims. Wireframes are focused mostly on the structure of the page. Prototypes, on the other hand, are all about interactions—they created to demonstrate not only how the product will look but also how it will work for users. Prototypes allow testing of the interactions between the user and the interface, similar to the final product.
