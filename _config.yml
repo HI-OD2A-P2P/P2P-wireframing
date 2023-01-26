@@ -36,7 +36,6 @@ remote:
 
 episode_order:
   - 01-intro
-  - 02-why-wireframes
   - 03-wireframe-tools
   - 04-wireframe-principles
   - 05-wireframe-steps 
