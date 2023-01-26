@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Learn about some of the tools that can be employed to create wireframes"
 keypoints:
-- "There are many tools for creating wireframes. Use the one that makes sense to you and offers the features you need to achieve your goals.
+- "There are many tools for creating wireframes. Use the one that makes sense to you and offers the features you need to achieve your goals."
 ---
 
 # Wireframing Tools
