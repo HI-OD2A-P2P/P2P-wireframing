@@ -3,11 +3,12 @@ title: "How To Start Wireframing a Data Dashboard"
 teaching: 10
 exercises: 0
 questions:
-- "What is TCP?"
+- "What are the steps to effectively create and use wireframes"
 objectives:
-- "Get a basic understading of TCP and why it is."
+- "Understand the basic steps of creating wireframes"
 keypoints:
-- "Tuning TCP can have a large impact of transfer throughput."
+- "Effective wireframes rely on good requirements and asking good questions before beging any visual design"
+- "Wireframing is an iterative process, feedback is essential for wireframes to inform the end dashboard"
 ---
 # How To Start Wireframing A Data Dashboard
 
@@ -58,7 +59,8 @@ Even if you are wireframing alone, it's useful to go through the step of explici
 
 Start adding the elements starting with the most important visuals and move on to smaller areas such as call to actions, interactive elements, survey structures, and so on. You can also add buttons to generate reports, send notifications, do bulk actions, etc. place the most important aspect of your dashboard at the top-left corner. This is what you want to keep in mind when beginning to outline your dashboard.
 
-> ### NOTE
+> ### Note:
+> 
 > Visual language is only helpful when it is consistent, clean and simple. 
 > Use very few colors (or preferably, no colors at all except for different shades of gray) just to draw the necessary focus and contrast to the content. Use simple shapes and simplified visualization to demonstrate the relationship between elements
 > 
