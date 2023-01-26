@@ -68,4 +68,24 @@ Start adding the elements starting with the most important visuals and move on t
 > 
 {: .callout}
 
+## Add Interactions - (optional advanced wireframing)
+
+Once you have your basic wireframe for the dashboard and related pages and screens ready, you can start adding links to interconnect various screens and page states. Once the linking has been done, you can set a transition, animation, gesture, or effect for the link. When the client clicks the component, it will jump to life, showing them how the real dashboard page will behave.
+
+## Add Annotations
+
+The next step is to annotate or make notes in your dashboard wireframe to show the stakeholders what goes where. 
+
+> ## NOTE
+> 
+> You can use the sticky note widgets for this and add text to it to explain what a particular button does or what a particular portion of the dashboard shows.
+> 
+{: .callout}
+
+## Feedback/Iteration
+
+Your dashboard wireframe is now ready to be shared with collaborators and other stakeholders. 3
+
+The iterative process of receiving feedback, incorporating changes, begins at this stage and continues until all parties are happy with the wireframe design. After the iterations are done, you can proceed to add design elements and other aesthetic features and finally test your prototypes with users.
+
 {% include links.md %}
