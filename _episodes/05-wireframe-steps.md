@@ -40,7 +40,8 @@ If you're having troubling imagining what it should look like, it probably means
 * What is their goal? What problem does this dashboard answer or ability does it enable for them?
 * What are some of the data actions or operations they are likely to perform? (i.e., the workflows)
 
-> Note: If you have a hard time answering these questions, you're probably not ready to start wireframing. In this case, we suggest that you go back to the gathering requirements phase.
+> ## Note: 
+> If you have a hard time answering these questions, you're probably not ready to start wireframing. In this case, we suggest that you go back to the gathering requirements phase.
 
 Even if you are wireframing alone, it's useful to go through the step of explicitly writing down this information about your project. It will help you get back on track when you get stuck and will be a huge help to anyone looking at your wireframes later.
 
