@@ -27,3 +27,10 @@ By the end of this workshop attendees will know how to:
 * Understand the steps of how to create dashboard wireframes
 
 {% include links.md %}
+
+### Source Material Citations
+
+* https://xd.adobe.com/ideas/process/wireframing/wireframe-examples-websites-mobile-apps
+* https://www.lucidchart.com/blog/how-to-make-a-wireframe-in-Lucidchart
+* https://www.springboard.com/blog/design/how-to-create-a-wireframe
+* https://balsamiq.com/learn/articles/five-steps-to-great-wireframes/
