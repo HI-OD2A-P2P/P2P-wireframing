@@ -41,6 +41,7 @@ If you're having troubling imagining what it should look like, it probably means
 * What are some of the data actions or operations they are likely to perform? (i.e., the workflows)
 
 > ### Note: 
+> 
 > If you have a hard time answering these questions, you're probably not ready to start wireframing. In this case, we suggest that you go back to the gathering requirements phase.
 {: .callout}
 
