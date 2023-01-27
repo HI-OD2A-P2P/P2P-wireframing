@@ -55,13 +55,26 @@ For this workshop we implemented an example wireframe in both LucidChart and Fig
 
 ### LucidChart Pros:
 
+* Loads of pre-made options.  Comes with a beginner set so the interface isn’t overloaded, but you can go into a menu to select more to be shown on the main page. Options are divided into libraries, like uml, kubernetes, org charts, site maps, tables, venn diagrams, etc.  Selecting the library adds all the options under it to your main page for use. 
+* Relatively intuitive, everything worked as I expected, didn’t have to google anything other than “can I draw freehand in Lucid.”
 
 ### LucidChart Cons:
+
+* Can’t freehand draw
+* Interaction 
 
 
 ### Figma Pros:
 
+* Can freehand draw on it
+* Does interaction - not a simple feature to use but is available
+
 ### Figma Cons:
+
+* Not a lot of pre-made options, mostly just buttons, textbox, menus, checkbox/option buttons, tabs, and dividers.  No tables, no uml.
+* Less/Non-intuitive.  It took me way too long to figure out how to change the colors of the drawn lines.
+* Some of the tools are on the side bar, some are on the top bar, you have to remember which thing is where instead of just scanning one area.  For example, they treat lines and boxes as top menu items, while buttons and textboxes are side menu items.  They are interacted with differently, so you need to first remember where the item is, then how to work with it instead of everything working the same.
+
 
 
 {% include links.md %}
