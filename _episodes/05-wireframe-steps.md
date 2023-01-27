@@ -24,20 +24,26 @@ So, how do you go from nothing to something?
 
 Here are a few tried-and-true methods with real examples that we use to kick start our wireframing.
 
-# Four techniques for starting a wireframe
+# Four Main Steps for starting a wireframe
 
 * Start with words instead of pictures
-* Create a site map
-* Use the existing design
-* Find inspiration elsewhere
+* Add Elemenets
+* Add Annotations
+* Feedback/Iteration
 
 ## 1. Start with words instead of pictures - Brainstorming
 
 If you're having troubling imagining what it should look like, it probably means that you haven't answered some important questions. Instead of diving straight into the user interface, we often start by answering some basic questions that apply to any project. This is sometimes called a Brief.
 
+> ## NOTE:
+> 
+> Leveraging existing similar data dashboard designs is also a good place to start
+>
+{: .callout}
+
 ### Questions to ask before wireframing
 
-* Who will be using it? (i.e., the audience)
+* Who will be using it? (i.e., the audience/users for the dashboard)
 * What is their goal? What problem does this dashboard answer or ability does it enable for them?
 * What are some of the data actions or operations they are likely to perform? (i.e., the workflows)
 * Exactly how can the content be organized to support these goals?
@@ -71,7 +77,7 @@ Start adding the elements starting with the most important visuals and move on t
 > 
 {: .callout}
 
-## Add Interactions - (optional advanced wireframing)
+### Add Interactions - (optional advanced wireframing)
 
 Once you have your basic wireframe for the dashboard and related pages and screens ready, you can start adding links to interconnect various screens and page states. Once the linking has been done, you can set a transition, animation, gesture, or effect for the link. When the client clicks the component, it will jump to life, showing them how the real dashboard page will behave.
 
