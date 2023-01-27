@@ -27,7 +27,7 @@ Here are a few tried-and-true methods with real examples that we use to kick sta
 # Four Main Steps for starting a wireframe
 
 * Start with words instead of pictures
-* Add Elemenets
+* Add Elements
 * Add Annotations
 * Feedback/Iteration
 
@@ -64,7 +64,14 @@ Even if you are wireframing alone, it's useful to go through the step of explici
 
 ## Add Elements
 
-Start adding the elements starting with the most important visuals and move on to smaller areas such as call to actions, interactive elements, survey structures, and so on. You can also add buttons to generate reports, send notifications, do bulk actions, etc. place the most important aspect of your dashboard at the top-left corner. This is what you want to keep in mind when beginning to outline your dashboard.
+Start adding the elements starting with the most important visuals and move on to smaller areas such as call to actions, interactive elements, survey structures, and so on. You can also add buttons to generate reports, send notifications, do bulk actions, etc. 
+
+> ##NOTE
+> 
+> Place the most important aspect of your dashboard at the top-left corner as most users look here first
+> 
+{: .callout}
+
 
 {% include figure.html url="" file="/fig/Lucid-dashboard-wireframe.PNG" width=500px alt="" caption="Example of wireframe with elements in LucidChart." %}
 
