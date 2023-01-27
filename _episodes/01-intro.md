@@ -32,7 +32,14 @@ The wireframe captures what graphs and visual displays will be part of the dashb
 
 These wireframes are not fully functional but a representation of the functionality that the dashboard will eventually contain.
 
-## What wireframes look like
+> ## NOTE:
+>
+> Wireframes a very useful tools for communitcation to developers as well as stakeholders - the old saying "a picture is worth a 1,000 words" is very applicable in this case
+> Also wireframing doesn't require coding skils -so it can be done before invovling developers
+> 
+{: .callout}
+
+## What do wireframes look like
 
 Traditionally, wireframes are low-fidelity sketches or digital illustrations created from boxes and lines illustrating content blocks and navigation elements. The lo-fi wireframes give a product team a chance to see the basic structure of the user interface. By eliminating the color, imagery, and other visual details, designers are forced to think about the big picture—the layout and functionality of individual pages and how they relate to each other.
 
@@ -58,12 +65,14 @@ Wireframes help convey the visual feel and structure of the dashboard before spe
 
 A wireframe helps avoid miscommunication and expensive changes to dashboards after development. Wireframes offer a visual language for designers to convey their ideas and vision for the dashboard for effective communication and visualization. Visual language has the benefit of conveying depth of space, direction, and contrast, which help the viewers make connection and relationship between elements more intuitively. More intricate wireframes can also simulate interactions between elements thereby creating more intuitive representations of the dashboard. Armed with a thorough understanding of the dashboard, all members of the management and development team will be able to raise concerns and collaboratively improve the dashboard.
 
-### Transfer charts onto the final dashboard: 
+> ## Note
+>
+>Having a wireframe that has gone through the iterative process of refinement and approval by all team members makes it relatively straightforward for developers to build the dashboard. 
+>The chances of miscommunication and ambiguity in building the desired dashboard are low since the wireframe conveys the dashboard elements and placement clearly.
+>
+{: .callout}
 
-Having a wireframe that has gone through the iterative process of refinement and approval by all team members makes it relatively straightforward for developers to build the dashboard. The chances of miscommunication and ambiguity in building the desired dashboard are low since the wireframe conveys the dashboard elements and placement clearly.
-
-
-# Three Key Principle For Data Dashboard Wireframing
+# Key Principle Data Dashboard Wireframing
 
 There are three key principles to ensure that your wireframe is good and useful for all stakeholders.
 
