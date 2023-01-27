@@ -6,8 +6,11 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 # Wireframing for Data Dashboards
 
-{% include figure.html url="" file="/fig/SOH-DOH-logos-1.png"  width="200px" %}
-{% include figure.html url="" file="/fig/hidisi-logo.png" %}
+{% include figure.html url="" file="/fig/SOH-DOH-logos-1.png"  width="200" %}
+{% include figure.html url="" file="/fig/hidisi-logo.png" width="100" %}
+
+## Synopsis
+This webinar will introduce wireframing for dashboards. Wireframing is often the most challenging yet overlooked phase of a dashboard building project. A wireframe is a visual layout of your dashboard. The wireframe captures what graphs and visual displays will be part of the dashboard and how they will be arranged. These wireframes are not fully functional but a representation of the functionality that the dashboard will eventually contain.
 
 ## Presenters
 
@@ -15,8 +18,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 * Jennifer Geis - University of Hawaiʻi System
 
 
-## Synopsis
-This webinar will introduce wireframing for dashboards. Wireframing is often the most challenging yet overlooked phase of a dashboard building project. A wireframe is a visual layout of your dashboard. The wireframe captures what graphs and visual displays will be part of the dashboard and how they will be arranged. These wireframes are not fully functional but a representation of the functionality that the dashboard will eventually contain.
+
 
 > ## Prerequisites
 > 
