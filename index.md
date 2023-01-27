@@ -4,7 +4,9 @@ root: .
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-# OD2A P2P Data Dasbhoard Webinar Series - Wireframing for Data Dashboards
+# Wireframing for Data Dashboards
+
+{% include figure.html url="" file="/fig/SOH-DOH-logos-1.png" width=500px alt="" %}
 
 ## Presenters
 
