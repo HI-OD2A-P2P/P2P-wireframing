@@ -1,8 +1,8 @@
 ---
 title: "Wrap up"
 teaching: 5
-exercises: 0
-#
+exercises: 1
+---
 
 ## Survey
 
