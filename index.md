@@ -4,6 +4,8 @@ root: .
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
+# Wireframing for Data Dashboards
+
 {% include figure.html url="" file="/fig/SOH-DOH-logos-1.png"  width="200px" %}
 {% include figure.html url="" file="/fig/hidisi-logo.png" %}
 
